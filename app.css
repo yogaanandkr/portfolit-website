@@ -1,0 +1,129 @@
+
+
+                                /* index.html  */
+
+.para{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'Lobster', cursive;
+   
+}
+
+.heading{
+    font-weight: 800;
+    font-family: 'Lobster', cursive;
+}
+
+.myText{
+    background: linear-gradient(to right, #f1faee,#90e0ef,#ffafcc,#4ea8de,#ffafcc,#90e0ef,#f1faee);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.aboutMe{
+    margin-top:200px ;
+}
+
+.resBtn:hover{
+    background-color: rgba(0, 255, 255, 0.164);
+    box-shadow: 2px 2px 10px white ;
+}
+.btnDiv a:hover{
+    color: white;
+}
+
+.profilePic{
+    height: 200px;
+    position:relative;
+    border-radius: 100%;
+    top: 180px;
+    
+    /* left: 100px; */
+}
+.show{
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+    
+
+}
+.myCarouselContainer{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+body{
+    background-image:url(https://images.unsplash.com/photo-1613375920388-f1f70f341f8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80) ;
+    
+}
+
+.list{
+    font-size: large;
+    font-weight: bolder;
+}
+#projectList{
+    margin-top: 100px;
+}
+.box{
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.head{
+    text-align: center;
+    /* font-size: 20px; */
+    
+}
+
+li{
+    color: white;
+}
+li a:hover{
+    color: lightskyblue;
+}
+
+
+.projects a:visited{
+    color: blanchedalmond;
+}
+
+a{
+    color: white;
+}
+
+/* a:visited{
+    color: blueviolet;
+} */
+
+.projects a:active{
+    color:white;
+}
+
+
+                        /* contact  */
+
+.logo{
+    height: 30px;
+    width: 30px;
+                        
+}
+
+.icons{
+    border-bottom: 1px solid black;
+}
+
+.contactLinks{
+    margin-left: 50px;
+}
+
+.contactBox{
+    margin-top: 200px;
+    width: 600px;
+    background-color: rgba(240, 248, 255, 0.486);
+}
+.projects a:hover{
+    color: black;
+}
+
+a{
+    color: black;
+}
+
