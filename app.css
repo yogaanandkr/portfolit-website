@@ -112,9 +112,9 @@ a{
                         
 }
 
-.icons{
-    /* border-bottom: 1px solid black; */
-}
+/* .icons{
+    border-bottom: 1px solid black;
+} */
 
 .contactLinks{
     margin-left: 10px;
@@ -128,7 +128,7 @@ a{
 
 
 .linkedIn{
-    font-size: 15px;
+    font-size: 10px;
 }
 /* .projects a:hover{
     color: black;
