@@ -9,13 +9,19 @@
     text-shadow: 2px 2px 5px rgb(219, 82, 178);
 }
 #mainnavbar{
-    font-size: 1.2rem;
-    font-weight: 900;
-    color: white;
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: 10px solid white;
+    font-family: 'Lobster', cursive;;
 }
 #mainnavbar .nav-link:hover{
     color: #f11c5c;
-}                          
+}   
+
+#mainnavbar{
+    color: black;
+    
+}
 
 
                               
