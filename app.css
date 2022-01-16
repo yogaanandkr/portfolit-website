@@ -73,12 +73,12 @@ body{
     
 }
 
-li{
+/* li{
     color: white;
 }
 li a:hover{
     color: lightskyblue;
-}
+} */
 
 
 .projects a:visited{
@@ -125,13 +125,18 @@ a{
     /* width: 100%; */
     background-color: rgba(240, 248, 255, 0.486);
 }
+
+
+.linkedIn{
+    font-size: 12px;
+}
 /* .projects a:hover{
     color: black;
 } */
 
-a{
+/* a{
     color: black;
-}
+} */
 
 
 
