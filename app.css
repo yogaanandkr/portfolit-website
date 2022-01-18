@@ -6,7 +6,7 @@
     font-weight: 900;
 }
 #mainnavbar .navbar-brand:hover{
-    text-shadow: 2px 2px 5px rgb(219, 82, 178);
+    text-shadow: 2px 3px 10px rgb(245, 14, 176);
 }
 #mainnavbar{
     font-size: 1.3rem;
@@ -160,6 +160,14 @@ a{
 .frame{
     width: 850px;
   
+}
+
+
+.resume{
+    margin-top: 100px;
+    position: relative;
+    left: 155px;
+    width: 100%;
 }
                         /* contact  */
 
