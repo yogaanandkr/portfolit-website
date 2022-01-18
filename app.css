@@ -51,22 +51,26 @@
     color: white;
 }
 .aboutMe{
-    margin-top:200px ;
+    margin-top:50px ;
 }
 
 .resBtn:hover{
     background-color: rgba(0, 255, 255, 0.164);
     box-shadow: 2px 2px 10px white ;
+    
 }
 .btnDiv a:hover{
     color: white;
+}
+.btnDiv{
+    margin-top: 20px;
 }
 
 .profilePic{
     height: 200px;
     position:relative;
-    border-radius: 100%;
-    top: 180px;
+    border-radius: 50%;
+    top: 40px;
     
     /* left: 100px; */
 }
