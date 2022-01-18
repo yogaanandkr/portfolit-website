@@ -23,24 +23,32 @@
     
 }
 
-
+.allIndex{
+    
+    border-style:inset;
+    /* border-left: 100px; */
+    border-radius: 30px;
+    height:min-content;
+    margin-top: 100px;
+}
                               
 .para{
-    font-size: 30px;
-    font-weight: 800;
+    font-size: 20px;
+    font-weight: 400;
     font-family: 'Lobster', cursive;
    
 }
 
 .heading{
-    font-weight: 800;
+    font-weight: 200;
     font-family: 'Lobster', cursive;
 }
 
 .myText{
-    background: linear-gradient(to right, #f1faee,#90e0ef,#ffafcc,#4ea8de,#ffafcc,#90e0ef,#f1faee);
+    /* background: linear-gradient(to right, #f1faee,#90e0ef,#ffafcc,#4ea8de,#ffafcc,#90e0ef,#f1faee);
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+    -webkit-background-clip: text; */
+    color: white;
 }
 .aboutMe{
     margin-top:200px ;
@@ -145,6 +153,7 @@ a{
 
 .frame{
     width: 850px;
+  
 }
                         /* contact  */
 
